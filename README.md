@@ -1,2 +1,2 @@
-# Gigx-Data-Aanalytics-
-We do daily mini data analysis projects under the Gigx series to strengthen core concepts in data analytics. Each project is designed to be practical, concept-focused, and helps build a strong foundation in tools like Power BI, Excel, SQL, and more.
+#P-1(Project-1) - this is EDA using python project but i do analysis with power quary and power-bi (Non-guided project).
+#P-2(project-2) - Do practice how EDA works (Fully Guided Project).
